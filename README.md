@@ -1,1 +1,1 @@
-# gesture-recognizer-model
+# gesture-recognizer
