@@ -1,6 +1,6 @@
 # Gesture Recognition Using a Neural Network
 
-The code in the repository is for creating a neural network for gesture recognition. It will recognize gestures from numbers 1-10 with a reliable accuracy. The model used over 4000 datapoints of hand landmarks with its corresponding gesture for train and test phases.
+The code in the repository is for creating a neural network for gesture recognition with the use of [Google Mediapipe Gesture Recognizer](https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer). It will recognize gestures from numbers 1-10 with a reliable accuracy. The model used over 4000 datapoints of hand landmarks with its corresponding gesture for train and test phases.
 
 ## How to Run
 
