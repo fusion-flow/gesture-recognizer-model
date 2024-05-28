@@ -4,11 +4,11 @@ The code in the repository is for creating a neural network for gesture recognit
 
 ## How to Run
 
->- You can locally run the gesture recongition using the following command.
+>- You can locally run the gesture recognition using the following command.
 >```
 >uvicorn api_call:app --reload
 >```
->- You can also pull and use the gesture recongition docker container from the following command.
+>- You can also pull and use the gesture recognition docker container from the following command.
 >```
 >docker pull awesomenipun/gesture-recognition-1
 >```
